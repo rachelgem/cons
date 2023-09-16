@@ -18,3 +18,15 @@
   - Data Import and Transportation
   - Data Cleaning and Preprocessing
   - Problem Solving
+
+## Data Exploration
+At this stage, I begin to familiarize myself with the data. I learnt about the data, find what needs cleaning, fill in missing information, check how data is organized, and see if we have the right information to answer important questions.
+
+## Data Cleaning and Preprocessing
+This involves undertaking the meticulous task of preparing the dataset for analysis, addressing any anomalies or discrepancies revealed during the earlier exploration phase.
+- Identified 
+
+
+
+
+
