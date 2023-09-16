@@ -24,7 +24,14 @@ At this stage, I begin to familiarize myself with the data. I learnt about the d
 
 ## Data Cleaning and Preprocessing
 This involves undertaking the meticulous task of preparing the dataset for analysis, addressing any anomalies or discrepancies revealed during the earlier exploration phase.
-- Identified 
+- Identified and removed null values from age group and marital status column to avoid inaccuracies.
+- Filtered data from preferred cuisine column that are significantly different from the rest of the dataset.
+- Gathered all relevant data sources, including customer reviews, restaurant information, and demographics data.
+- Removed spaces and special characters in age group to make them uniform.
+- Ensured the data types are consistent.
+- Detect and removed duplicate entries to ensure data integrity.
+
+
 
 
 
