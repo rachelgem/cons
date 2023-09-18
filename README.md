@@ -35,12 +35,14 @@ This involves undertaking the meticulous task of preparing the dataset for analy
 - Ensured the data types are consistent.
 - Detect and removed duplicate entries to ensure data integrity.
 
-  ## Visualization and Analysis
+## Visualization and Analysis
 This is where I begin answering the questions provided. I utilized bar charts to generate insights and visually represent the data.
 
 - The analysis revealed that Tortas Locas Hipocampo received the highest customer ratings, followed by Vips, Unicol's Pizza, Taqieria El Amigo and Tacos Los in descending order.
 - It was found that TCX Mex was the most preferred choice among consumers, followed by Turkish, Swiss, Tapas, Tea House and Thai in order of preference.
-- 
+- For consumers, youths have the highest rating followed by the elderly. Young adults have the lowest rating.
+- Singles frequent the restaurant the most.
+- Youths exhibit the greatest consumption rate at Mexican restaurant.
    
 
 
