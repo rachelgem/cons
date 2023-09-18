@@ -1,5 +1,7 @@
 ## Mexican Restaurant Rating Analysis
-*[]{}
+
+*[]
+***
 ## Introduction
 
 ## Problem Statement
@@ -37,6 +39,8 @@ This involves undertaking the meticulous task of preparing the dataset for analy
 
 ## Visualization and Analysis
 This is where I begin answering the questions provided. I utilized bar charts to generate insights and visually represent the data.
+
+![]()
 
 - The analysis revealed that Tortas Locas Hipocampo received the highest customer ratings, followed by Vips, Unicol's Pizza, Taqieria El Amigo and Tacos Los in descending order.
 - It was found that TCX Mex was the most preferred choice among consumers, followed by Turkish, Swiss, Tapas, Tea House and Thai in order of preference.
