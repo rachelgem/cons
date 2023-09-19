@@ -40,7 +40,6 @@ This involves undertaking the meticulous task of preparing the dataset for analy
 
 ## Visualization and Analysis
 This is where I begin answering the questions provided. I utilized bar charts to generate insights and visually represent the data.
-
 ![](mexican_restaurant_analysis.PNG)
 
 - The analysis revealed that Tortas Locas Hipocampo received the highest customer ratings, followed by Vips, Unicol's Pizza, Taqieria El Amigo and Tacos Los in descending order.
@@ -60,6 +59,7 @@ This is where I begin answering the questions provided. I utilized bar charts to
 ## Conclusion
 
 The analysis of customer ratings and preferences at Mexican Restaurants provides valuable insights for optimizing business strategies. It is evident that students are the primary patrons of Mexican Restaurants, emphasizing the importance of targeting this demographic in marketing efforts. Youths have the highest ratings, underlining the need to maintain their satisfaction, while there is room for improvement in catering to young adults.
+
 Furthermore, recognizing that singles frequent the restaurant the most and that youths exhibit the highest consumption rate, tailoring offerings and promotions to these segments can lead to increased customer satisfaction and business success. Overall, understanding and acting upon these findings can significantly impact the restaurant’s performance and customer experience.
 
 
