@@ -3,7 +3,7 @@
 *[]
 ***
 ## Introduction
-
+In the ever-evolving landscape of the food industry, the Mexican restaurant stands as a beacon of flavour, culture, and tradition. As we embark on a journey into the realm of "Mexican Restaurant Sales Analysis," we venture into a vibrant and savory world where the fusion of taste and business acumen takes center stage. This analysis promises to uncover the financial nuances and customer preferences that define the success of this beloved Mexican establishment. Join us as we peel back the layers of data to reveal the secret ingredients behind the sales performance of the "Mexican" restaurant, serving as a testament to the rich tapestry of Mexican cuisine and hospitality.
 ## Problem Statement
 
 - Which restaurant has the highest customer rating?
